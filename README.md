@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi, I'm Túlio 👋</h1>
 
 <!--
 **tuliof91/tuliof91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>I'm a data scientist passionate about computer vision and NLP</p>
