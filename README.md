@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p>I'm a data scientist passionate about computer vision and NLP</p>
+
+<p>Find me around the web 🌎:</p>
+
+<h2>Tools:</h2>
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
