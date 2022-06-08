@@ -21,7 +21,7 @@ I am passionate about working with organizations that want to make effective use
 ## 🔧 About me
 - 🎮 I'm an indie game lover
 - 📚 I'm an avid reader
-- 🔭 I'm currently working on 
+- 🔭 I'm currently working on Game Recomendations
 - 🌱 I'm currently learning Machine Learning
 - 🤔 I'm looking for help with BIAS in Machine Learning
 
