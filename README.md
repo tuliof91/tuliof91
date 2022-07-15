@@ -22,7 +22,7 @@ I am passionate about working with organizations that want to make effective use
 - 🎮 I'm an indie game lover
 - 📚 I'm an avid reader
 - 🔭 I'm currently working on Game Recomendations
-- 🌱 I'm currently learning Machine Learning
+- 🌱 I'm currently learning feature engineering
 - 🤔 I'm looking for help with BIAS in Machine Learning
 
 I do not tolerate any discrimination against sexuality, gender, color, race,  etnicity or any other kind
